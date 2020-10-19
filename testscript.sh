@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "Test script work"
+echo "Test script worki"
+echo "varone is:" $varone
+echo "vartwo is:" $vartwo
